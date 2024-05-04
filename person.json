@@ -20,4 +20,4 @@
       }
     }
     </script>
-<style>#printregion ul {columns: 2;}</style>
+<style>h1 {font-size: 26px;} #printregion h2 {font-size: 22px; padding-top: 10px;} #printregion ul {columns: 2;} #printregion .border-light.padding-sm h2:first-child {display: none;}</style>
