@@ -20,4 +20,18 @@
       }
     }
     </script>
-<style>h1 {font-size: 26px;} #printregion h2 {font-size: 22px; padding-top: 10px;} #printregion ul {columns: 2;} #printregion .border-light.padding-sm h2:first-child {display: none;}</style>
+<style>h1 {font-size: 26px;} #printregion h2 {font-size: 22px; padding-top: 10px;} #printregion ul {columns: 2;} #printregion .border-light.padding-sm h2:first-child {display: none;}
+.profile-icon2 p img {
+  display: none;
+}
+
+.profile-icon2 p a > img {
+  display: inline-block;
+}
+#printregion hr {height:4px;border-width:0;background: linear-gradient(to right, #ff6800, #ffa600);
+}
+#printregion .border-light.padding-sm a {
+color: #ff6800;
+    text-decoration: underline;
+}
+</style>
